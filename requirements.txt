@@ -3,4 +3,7 @@ sqlalchemy
 uvicorn
 python-multipart
 pytz
+argon2-cffi
+authx
+regex
 # pip install -r requirements.txt
